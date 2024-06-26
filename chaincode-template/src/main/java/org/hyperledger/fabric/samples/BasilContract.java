@@ -21,8 +21,8 @@ import org.hyperledger.fabric.shim.ChaincodeStub;
                         name = "Apache 2.0 License",
                         url = "http://www.apache.org/licenses/LICENSE-2.0.html"),
                 contact = @Contact(
-                        email = "s.avola@example.com",
-                        name = "Stefano Avola",
+                        email = "mahnoush.ch@gmail.com",
+                        name = "Mahnoush Changizi",
                         url = "https://hyperledger.example.com")))
 public class BasilContract implements ContractInterface {
 
